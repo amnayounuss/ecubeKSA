@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npm run *)",
+      "Bash(ffmpeg -version)",
+      "PowerShell(Test-Path \"C:\\\\Users\\\\PC\\\\Downloads\\\\WhatsApp Video 2026-07-05 at 2.10.28 PM.mp4\"; \\(Get-Command ffmpeg -ErrorAction SilentlyContinue\\).Source; \\(Get-Command ffmpeg.exe -ErrorAction SilentlyContinue\\).Source; where.exe ffmpeg 2>$null)",
+      "PowerShell(winget install *)",
+      "PowerShell(New-Item *)",
+      "Bash(export NODE_PATH=\"C:/Users/PC/AppData/Local/npm-cache/_npx/361ceb562f3b3235/node_modules\")",
+      "Bash(node \"C:/Users/PC/AppData/Local/Temp/hero.js\" \"https://agentvoice.com/\" \"C:/Users/PC/AppData/Local/Temp/av2.png\")"
+    ]
+  }
+}
