@@ -72,7 +72,6 @@ export const CLIENTS = [
   { name: "DPS", logo: "/dps-logo.png" },
   { name: "Naseem Autos", logo: "/naseem-logo.png" },
   { name: "Insta Print", logo: "/insta-logo.png" },
-  { name: "Wags", logo: "/wags-logo1.png" },
   { name: "Sufi City", logo: "/suficity-logo.png" },
   { name: "MR Fabrics", logo: "/mrfabrics-logo.png" },
   { name: "Saad", logo: "/saad-logo.png" },

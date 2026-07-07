@@ -12,11 +12,11 @@ export default function Home() {
     <>
       <Hero />
       <KineticBand />
-      <Logos />
+      {/* <Logos /> */}
       <Solution />
       <Features />
       <Services />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <CTA />
     </>
   );

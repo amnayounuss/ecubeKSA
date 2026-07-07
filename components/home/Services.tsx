@@ -117,12 +117,12 @@ const SERVICES_CATEGORIES: Category[] = [
     modules: [
       {
         title: "Order Management Portal",
-        description: "The operations hub for customer-facing experiences — control loyalty programs, the Pickup App, and the Waitlist & Reservations system from one place. Built on top of WAGS SaaS, focused on order-side and engagement features.",
+        description: "The operations hub for customer-facing experiences — control loyalty programs, the Pickup App, and the Waitlist & Reservations system from one place. Built on top of ECube SaaS, focused on order-side and engagement features.",
         icon: "Layers",
         badge: "Popular",
       },
       {
-        title: "WAGS SaaS (POS Management)",
+        title: "ECube SaaS (POS Management)",
         description: "The central source of truth that powers the entire system. Manage the POS App menu, Menu Portal (Signage) content, pricing, branches, and core configuration here — the master data layer that the Order Management Portal and all connected apps build on.",
         icon: "Database",
         badge: "Popular",
